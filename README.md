@@ -10,7 +10,7 @@ Run the script http://localhost/bank
 
 Manager
 Username :rupesh@manager.com
-Passwored:rupesh2312
+Passwored:rupesh
 
 Cashier
 Username :Bhimsen@cashier.com
